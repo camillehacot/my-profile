@@ -1,0 +1,83 @@
+/*colors and fonts*/
+
+body {
+
+background-color: #E6E6FA;
+
+color : #E9967A;
+
+font-family: 'Open Sans', sans-serif;
+
+font-size: 16px;
+
+line-height: 1.6;
+
+letter-spacing: 1px;
+
+text-align: center;
+
+font-weight:lighter;
+
+margin: 1em;
+
+}
+
+h1 {
+
+color :#D8BFD8;
+
+font-size: 45px;
+
+font-weight: 800;
+
+font-family: 'Bitter', serif;
+
+}
+
+h2 {
+
+color : #D8BFD8;
+
+font-family: 'Bitter', serif;
+
+font-size: 30px;
+
+text-decoration: underline;
+
+}
+
+a {
+
+text-decoration: none;
+
+color:#006a71;
+
+}
+
+a:hover {
+
+color:#6d6875;
+
+font-weight: bold
+
+}
+
+.img-circle {
+
+border-radius: 70%;
+
+}
+
+.btn-pink {
+
+background-color: #cbbcb1;
+
+padding: 15px 20px;
+
+}
+
+.fas fa-mobile-alt{
+
+font size:50px;
+
+}
